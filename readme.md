@@ -102,7 +102,7 @@ multi-object-tracking/
 ![Trajectory](assets/screenshot6.png)
 
 ### Other screenshots
-![img](assets/screenshot2.png)
-![img](assets/screenshot3.png)
-![img](assets/screenshot5.png)
-![img](assets/Screenshot4.png)
+![img1](assets/screenshot2.png)
+![img2](assets/screenshot3.png)
+![img3](assets/screenshot5.png)
+![img4](assets/Screenshot4.png)

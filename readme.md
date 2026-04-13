@@ -96,13 +96,13 @@ multi-object-tracking/
 ## 📸 Sample Output
 
 ### 🎯 Detection & Tracking
-![Tracking](assets/screenshot1.png)
+![Tracking](assets/Screenshot1.png)
 
 ### 📍 Trajectory Visualization
-![Trajectory](assets/screenshot6.png)
+![Trajectory](assets/Screenshot6.png)
 
 ### Other screenshots
-![img1](assets/screenshot2.png)
-![img2](assets/screenshot3.png)
-![img3](assets/screenshot5.png)
+![img1](assets/Screenshot2.png)
+![img2](assets/Screenshot3.png)
+![img3](assets/Screenshot5.png)
 ![img4](assets/Screenshot4.png)

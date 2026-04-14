@@ -102,7 +102,14 @@ multi-object-tracking/
 ![Trajectory](assets/Screenshot6.png)
 
 ### Other screenshots
-![img](assets/screenshot2.png)
-![img](assets/screenshot3.png)
-![img](assets/screenshot5.png)
+![img](assets/Screenshot2.png)
+![img](assets/Screenshot3.png)
+![img](assets/Screenshot5.png)
 ![img](assets/Screenshot4.png)
+
+
+## 🎬 Demo Video
+
+Due to size limitations, the demo video is hosted externally:
+
+👉 [Watch Demo Video](https://drive.google.com/file/d/1J-TTIBLQNQ2mi76COC9CxX97wpUmUgpo/view?usp=sharing)
